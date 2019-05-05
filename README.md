@@ -3,13 +3,15 @@
 `scikit-learnとTensorFlowによる実践機械学習`の第10章に登場する、
 TensorFlowによるMNIST分類タスク実装
 <https://github.com/ageron/handson-ml/blob/master/10_introduction_to_artificial_neural_networks.ipynb>
+
 を、TensorFlowを使わずにPythonとNumpyで実装し替えたものです。
 
 `handsonml_tf_mnist.ipynb` : 「実践機械学習」の元notebookの抜粋
+
 `my_np_mnist.ipynb` : python + numpyによる自前の実装
 
 
-## 実装内容
+## ネットワーク内容
 
 * 3層全結合ネットワーク
 
