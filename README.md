@@ -6,11 +6,11 @@ TensorFlowによるMNIST分類タスク実装
 
 を、TensorFlowを使わずにPythonとNumpyで実装し替えたものです。
 
-## ファイル
-
-`handsonml_tf_mnist.ipynb` : 「実践機械学習」の元notebookの抜粋
-
-`my_np_mnist.ipynb` : python + numpyによる自前の実装
+ファイル|内容
+--|--
+handsonml_tf_mnist.ipynb | 「実践機械学習」の元notebookの抜粋
+my_np_mnist.ipynb | python + numpyによる自前の実装
+reference_data.py | tensorflowからデータをロードするだけのモジュール(自前の実装で使用)
 
 
 ## ネットワーク内容
